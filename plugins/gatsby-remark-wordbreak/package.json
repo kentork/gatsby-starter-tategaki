@@ -1,0 +1,7 @@
+{
+  "name": "gatsby-remark-wordbreak",
+  "dependencies": {
+    "kuromoji": "^0.1.2"
+  },
+  "main": "index.js"
+}

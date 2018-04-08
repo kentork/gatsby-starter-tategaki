@@ -1,0 +1,51 @@
+{
+  "name": "gatsby-starter-tategaki",
+  "description": "Gatsby Starter Blog for tategaki",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "n/a",
+  "author": "kentork",
+  "homepage": "https://github.com/kentork/gatsby-starter-tategaki#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentork/gatsby-starter-tategaki.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kentork/gatsby-starter-tategaki/issues"
+  },
+  "keywords": ["gatsby"],
+  "dependencies": {
+    "detect-browser": "^2.2.0",
+    "gatsby": "^1.9.241",
+    "gatsby-link": "^1.6.39",
+    "gatsby-plugin-feed": "^1.3.20",
+    "gatsby-plugin-google-analytics": "^1.0.24",
+    "gatsby-plugin-offline": "^1.0.15",
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-sharp": "^1.6.41",
+    "gatsby-plugin-styled-components": "^2.0.11",
+    "gatsby-plugin-typography": "^1.7.18",
+    "gatsby-remark-copy-linked-files": "^1.5.30",
+    "gatsby-remark-images": "^1.5.59",
+    "gatsby-remark-prismjs": "^1.2.21",
+    "gatsby-remark-responsive-iframe": "^1.4.18",
+    "gatsby-remark-smartypants": "^1.4.12",
+    "gatsby-source-filesystem": "^1.5.27",
+    "gatsby-transformer-remark": "^1.7.37",
+    "gatsby-transformer-sharp": "^1.6.22",
+    "gray-percentage": "^2.0.0",
+    "kuromoji": "^0.1.2",
+    "progress": "^2.0.0",
+    "react-motion": "^0.5.2",
+    "styled-components": "^3.2.5",
+    "typography-breakpoint-constants": "^0.15.10"
+  },
+  "devDependencies": {
+    "prettier": "^1.11.1"
+  },
+  "scripts": {
+    "dev": "gatsby develop",
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-remark-images-tategaki",
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "cheerio": "^1.0.0-rc.2",
+    "gatsby-plugin-sharp": "^1.6.41",
+    "is-relative-url": "^2.0.0",
+    "lodash": "^4.17.4",
+    "slash": "^1.0.0",
+    "unist-util-select": "^1.5.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "cross-env": "^5.0.5"
+  },
+  "main": "index.js"
+}
