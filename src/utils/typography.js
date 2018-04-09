@@ -7,18 +7,18 @@ const theme = {
   baseFontSize: '18px',
   baseLineHeight: 1.75,
   scaleRatio: 5 / 2,
-  googleFonts: [
-    // {
-    //   name: 'Open Sans',
-    //   styles: ['200', '400', '400i', '700'],
-    // },
-    {
-      name: 'Roboto',
-      styles: ['200', '400', '400i', '700'],
-    },
-  ],
+  // googleFonts: [
+  //   {
+  //     name: 'Open Sans',
+  //     styles: ['200', '400', '400i', '700'],
+  //   },
+  //   {
+  //     name: 'Roboto',
+  //     styles: ['200', '400', '400i', '700'],
+  //   },
+  // ],
   headerFontFamily: [
-    'Roboto',
+    'Roboto Regular',
     '-apple-system',
     'BlinkMacSystemFont',
     'Helvetica Neue',
@@ -28,7 +28,7 @@ const theme = {
     'sans-serif',
   ],
   bodyFontFamily: [
-    'Roboto',
+    'Roboto Regular',
     '-apple-system',
     'BlinkMacSystemFont',
     'Helvetica Neue',

@@ -1,4 +1,6 @@
+import 'typeface-roboto'
 import './style.css'
+
 import 'prismjs/themes/prism-solarizedlight.css'
 
 import React from 'react'
