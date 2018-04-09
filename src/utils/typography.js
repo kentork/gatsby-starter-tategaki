@@ -8,10 +8,10 @@ const theme = {
   baseLineHeight: 1.75,
   scaleRatio: 5 / 2,
   googleFonts: [
-    {
-      name: 'Open Sans',
-      styles: ['200', '400', '400i', '700'],
-    },
+    // {
+    //   name: 'Open Sans',
+    //   styles: ['200', '400', '400i', '700'],
+    // },
     {
       name: 'Roboto',
       styles: ['200', '400', '400i', '700'],
