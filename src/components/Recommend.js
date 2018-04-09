@@ -23,7 +23,7 @@ const Item = styled.li`
 const Navigation = styled(Link)`
   margin-left: 1rem;
   box-shadow: none;
-  display: contents;
+  display: block;
 `
 
 export default ({ style, posts }) => {
